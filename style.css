@@ -1,0 +1,14 @@
+.titre {
+    text-align: center;
+    width: 100%;
+    border: 2px solid;
+    background-color: azure;
+}
+.row{
+    width:100%;
+    float: left;
+}
+.logo{
+    text-align: center;
+    
+}
